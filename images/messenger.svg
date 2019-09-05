@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>messenger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-829.000000, -209.000000)" fill="#0084FF" fill-rule="nonzero">
+            <g id="Group" transform="translate(755.000000, 209.000000)">
+                <path d="M85.5,0 C79.1487143,0 74,4.97459259 74,11.1111111 C74,14.6077778 75.6722857,17.7267407 78.2857143,19.7634815 L78.2857143,24 L82.2013571,21.7575556 C83.2463571,22.0593333 84.3534286,22.2222222 85.5,22.2222222 C91.8512857,22.2222222 97,17.2476296 97,11.1111111 C97,4.97459259 91.8512857,0 85.5,0 Z M86.6842105,15 L83.7416268,11.7234043 L78,15 L84.3157895,8 L87.3301435,11.2765957 L93,8 L86.6842105,15 Z" id="messenger"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>messenger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-443.000000, -591.000000)" fill="#D0CFCF" fill-rule="nonzero">
+            <path d="M454.5,591 C448.148714,591 443,595.974593 443,602.111111 C443,605.607778 444.672286,608.726741 447.285714,610.763481 L447.285714,615 L451.201357,612.757556 C452.246357,613.059333 453.353429,613.222222 454.5,613.222222 C460.851286,613.222222 466,608.24763 466,602.111111 C466,595.974593 460.851286,591 454.5,591 Z M455.684211,606 L452.741627,602.723404 L447,606 L453.315789,599 L456.330144,602.276596 L462,599 L455.684211,606 Z" id="messenger"></path>
+        </g>
+    </g>
+</svg>
